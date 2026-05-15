@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.684e391e.css",
-    "main.js": "/static/js/main.53cd3739.js",
-    "static/js/453.20359781.chunk.js": "/static/js/453.20359781.chunk.js",
-    "index.html": "/index.html",
-    "main.684e391e.css.map": "/static/css/main.684e391e.css.map",
-    "main.53cd3739.js.map": "/static/js/main.53cd3739.js.map",
-    "453.20359781.chunk.js.map": "/static/js/453.20359781.chunk.js.map"
+    "main.css": "/velas-cabin/static/css/main.684e391e.css",
+    "main.js": "/velas-cabin/static/js/main.ba98c25f.js",
+    "static/js/453.20359781.chunk.js": "/velas-cabin/static/js/453.20359781.chunk.js",
+    "index.html": "/velas-cabin/index.html",
+    "main.684e391e.css.map": "/velas-cabin/static/css/main.684e391e.css.map",
+    "main.ba98c25f.js.map": "/velas-cabin/static/js/main.ba98c25f.js.map",
+    "453.20359781.chunk.js.map": "/velas-cabin/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.684e391e.css",
-    "static/js/main.53cd3739.js"
+    "static/js/main.ba98c25f.js"
   ]
 }
